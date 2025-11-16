@@ -1,2 +1,10 @@
 # Ransonware-and-Keylogger
 Código básico de dois malwares comuns
+
+Conforme demonstrado no desafio de projeto ministrado pela professora Isadora Ferrão, o uso de malwares é bem comum como vetores de ataques aos sistemas e dispositivos de diversos usuários quer empresas, governos quer de pessoas normais. 
+
+Dois desses malwares são o ransonware que sequestra criptografando arquivos importantes do alvo sendo solicitado um resgate, normalmente em moedas digitais criptografadas, para que seja liberada a chave para descriptografar tais arquivos, vale lembrar que o pagamento de tal resgate não é garantia que será encaminhada a chave pra liberação de acesso pois o atacante pode ter usado chaves diferentes para tipos e classificações diferentes de arquivos, dependendo do alvo e da complexidade do ataque. 
+
+Um segundo malware é a captura de teclas, ou keylogger, que registra tudo o que é digitado por um determinado usuário, sendo enviado um log com informações em periódos regulares de forma automática.
+
+Cabe destacar que o objetivo deste repositório é unica e exclusivamente didático, detalhando e esclarecendo de forma simples como esses ataques são feitos. 
