@@ -1,0 +1,5 @@
+Seus arquivos foram criptografados!
+Para recuperá-los, envie 1 Bitcoin para o endereço abaixo:
+[ENDEREÇO DE BITCOIN]
+Após o pagamento, envie um e-mail para [SEU EMAIL] com o comprovante.
+Você receberá a chave de descriptografia em resposta.

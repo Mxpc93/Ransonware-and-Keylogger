@@ -1,0 +1,19 @@
+SEUS ARQUIVOS FORAM CRIPTOGRAFADOS!
+
+Para sua surpresa e desespero, todos os seus documentos importantes, fotos,
+e backups foram criptografados com a criptografia RSA-2048/Fernet.
+
+A chave de descriptografia para seus dados foi criptografada com nossa chave 
+pública e salva no arquivo: 'CHAVE_DO_RESGATE.BIN'.
+
+VOCÊ NÃO PODE DESCRIPTOGRAFAR ESTE ARQUIVO SOZINHO.
+
+Para recuperá-los, você deve seguir estes passos:
+1. Envie 1 Bitcoin para o endereço: [ENDEREÇO DE BITCOIN FICTÍCIO]
+2. Envie um e-mail para [SEU EMAIL FICTÍCIO] com o comprovante de pagamento e o arquivo 'CHAVE_DO_RESGATE.BIN'.
+
+Você receberá a chave privada em resposta, que é a única maneira de ler 
+o conteúdo do arquivo 'CHAVE_DO_RESGATE.BIN' e, finalmente, descriptografar seus arquivos.
+
+NÃO TENTE RECUPERAR OS ARQUIVOS SEM NOSSA AJUDA.
+QUALQUER TENTATIVA PODE DANIFICAR SEUS DADOS IRREMEDIAVELMENTE.

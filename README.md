@@ -8,3 +8,7 @@ Dois desses malwares são o ransonware que sequestra criptografando arquivos imp
 Um segundo malware é a captura de teclas, ou keylogger, que registra tudo o que é digitado por um determinado usuário, sendo enviado um log com informações em periódos regulares de forma automática.
 
 Cabe destacar que o objetivo deste repositório é unica e exclusivamente didático, detalhando e esclarecendo de forma simples como esses ataques são feitos. 
+
+Como forma de aprimorar o código gerado pela professora, solicitei que o Gemini fizesse a análise do código básico do ransonware e apresentasse implementos para que a estrutura do malware fosse melhorada.
+
+Sugeriu-se que criasse duas senhas para que os arquivos somente fossem efetivamente descriptografados com a senha privada em controle do atacante. Tal melhoria indica e reforça a imprevisibilidade da devolução dos arquivos sequestrados mesmo pagando o resgate.
